@@ -1,5 +1,5 @@
-
-//#include "stdafx.h"
+// Bismillahir Rahmanir Rahim 
+// Author: Badsha12 ;
 #include<bits/stdc++.h>
 #include <iostream>
 #include <conio.h>
